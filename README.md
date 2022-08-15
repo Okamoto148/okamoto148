@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Leandro! Welcome to my GitHub.👋
 
-<!--
-**Okamoto148/okamoto148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+<div>
+<p>
+I'm a Front-End Developer, I live in Brazil and I'm interested in technology.
+  <p/>
+  <div/>
 
-Here are some ideas to get you started:
+### 📈 Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/okamoto148">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=okamoto148&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamoto148&layout=compact&langs_count=7&theme=dark"/>
+</div>
