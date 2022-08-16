@@ -1,5 +1,3 @@
-### Hi, I'm Leandro! Welcome to my GitHub.👋
-
 ### About me
 <div>
 <p>
