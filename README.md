@@ -1,7 +1,7 @@
 ### About me
 <div>
 <p>
-I'm a Front-End Developer, I live in Brazil and I'm interested in technology.
+I'm a Full-Stack Developer, I live in Brazil and I'm interested in technology.
   <p/>
   <div/>
 
